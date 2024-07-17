@@ -1,5 +1,11 @@
 # PlexAniSync: TheTVDB Series Mappings in English
 entries:
+  - title: "The Fruit of Evolution: Before I Knew It, My Life Had It Made"
+    seasons:
+      - season: 1
+        anilist-id: 129068
+      - season: 2
+        anilist-id: 146954
   - title: "86: Eighty Six"
     guid: plex://show/5e7362fb4a62f90040e89827
     # imdb: https://www.imdb.com/title/tt13718450/
